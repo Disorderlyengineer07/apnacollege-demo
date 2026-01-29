@@ -1,4 +1,4 @@
 # apnacollege-demo
 This Is my first  Git Repositorty.
 <br>
-Author - Dhruv Jagtap
+Author - Dhruv (Apna college)
